@@ -1,6 +1,8 @@
 # Virtual-Library
 This a repository of our Software Group Project.
 members :
-krisha patel
+krishnaa patel
 yashvi patel 
 utsavi patel
+yashvi patel
+vrutti patel
